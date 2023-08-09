@@ -1,0 +1,15 @@
+2,1,PAIS,GENERAL
+2,2,ESTADO,GENERAL
+2,3,IDADE,GENERAL
+2,4,SEXO,GENERAL
+2,5,Qual é o setor ou área da sua especialidade?,GENERAL
+2,6,Se sente bem no seu ambiente escolar?,CONVIVENCIA
+2,7,Os professores levam em conta a diversidade em suas aulas?,CONVIVENCIA
+2,8,No seu grupo há pessoas com deficiência:,CONVIVENCIA
+2,9,Você acha que essas pessoas têm as mesmas oportunidades que as outras?,CONVIVENCIA
+2,10,Você já sofreu ou viu alguém sofrendo Bullying? Você informou alguém sobre o evento?,CONVIVENCIA
+2,11,A sua instituição toma medidas contra comportamentos inadequados?,CONVIVENCIA
+2,12,Tem apoio psicológico para os estudantes na sua instituição? ,CONVIVENCIA
+2,13,Qual o grau de exigência do seu curso?,CURRICULUM
+2,14,Qual é a carga de trabalho (tarefas) que você tem por semana?,CURRICULUM
+2,15,De que ano é o plano do estudo que você cursa?,CURRICULUM
